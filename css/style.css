@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "kid";
+    src: url("../fonte/PatrickHand-Regular.ttf");
+}
+.kid{
+    font-family: "kid";
+}
+.orange{
+    background-color: #F2994B;
+}
+.font-light{
+    color: #fff;
+}
+.size-ps-1{
+    font-size:4rem;
+}
+section{
+    margin-bottom: 5rem;
+}
